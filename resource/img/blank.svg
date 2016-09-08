@@ -1,0 +1,13 @@
+<svg id="blank.svg" xmlns="http://www.w3.org/2000/svg" width="13" height="9" viewBox="0 0 13 9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b2a41;
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <rect id="長方形_25" data-name="長方形 25" class="cls-1" x="2.5" y="0.5" width="10" height="6"/>
+  <rect id="長方形_25-2" data-name="長方形 25" class="cls-1" x="0.5" y="2.5" width="10" height="6"/>
+</svg>
